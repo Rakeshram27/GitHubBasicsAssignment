@@ -1,0 +1,1 @@
+It is used to demonstrate the QR generator with the given source of text or URL. It is completed fully on HTML, CSS, JavaScript and it was a web development project. Where API is used to integrate for QR Generating.
