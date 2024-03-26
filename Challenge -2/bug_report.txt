@@ -1,9 +1,2 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Card</title>
-    <p> Creating a price tag card using HTML, CSS. To demonstrate the importance of basic Web Development towards the future area </p>
-</body>
-</html>
+Card
+    Creating a price tag card using HTML, CSS. To demonstrate the importance of basic Web Development towards the future Development sector 
